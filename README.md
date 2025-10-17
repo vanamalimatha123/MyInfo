@@ -13,7 +13,6 @@ My work focuses on connecting **People, Process, and Technology** to deliver rel
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/vanamalimatha123">
     <img src="https://img.shields.io/badge/GitHub-vanamalimatha123-black?logo=github&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/vanamalimatha123">
