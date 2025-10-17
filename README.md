@@ -19,9 +19,6 @@ My work focuses on connecting **People, Process, and Technology** to deliver rel
   <a href="https://www.linkedin.com/in/vanamalimatha123">
     <img src="https://img.shields.io/badge/LinkedIn-Vanamali%20Matha-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="https://medium.com/@mathavanamali121">
-    <img src="https://img.shields.io/badge/Medium-@mathavanamali121-black?logo=medium&style=for-the-badge" />
-  </a>
   <a href="mailto:mathavanamali121@gmail.com">
     <img src="https://img.shields.io/badge/Email-mathavanamali121%40gmail.com-red?logo=gmail&style=for-the-badge" />
   </a>
