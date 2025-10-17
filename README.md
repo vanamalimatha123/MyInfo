@@ -1,7 +1,6 @@
 # MyInfo
  ### Hi there
   # About me
-Description
 # 👋 Hi, I'm **Vanamali Matha**
 
 ### 💼 IT Project Coordinator | Service Delivery & Transition Management | ITIL® | PMP® | AWS & GCP Certified ☁️
